@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Rohan-0-1
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Programming Languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rohanbagalakot@gmail.com
+- 👋 Hi, I’m Rohan
+- 👀 I’m interested in ... Web Development , MERN Stack
+- 🌱 I’m currently learning C++ , React
+- 📫 Reach me @ rohanbagalakot@gmail.com
 
